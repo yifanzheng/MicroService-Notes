@@ -9,7 +9,6 @@ import top.yifan.service.ConsumerService;
 
 /**
  * @author star
- * @date 2021/4/10
  */
 @RequestMapping("/api")
 @RestController

@@ -7,7 +7,6 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * @author star
- * @date 2021/4/10
  */
 @Configuration
 public class AutoConfig {
